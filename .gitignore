@@ -3,3 +3,12 @@
 __pycache__/
 .venv/
 venv/
+
+# Dataset
+dataset/
+
+# Large model files
+*.keras
+*.h5
+*.joblib
+*.pkl
